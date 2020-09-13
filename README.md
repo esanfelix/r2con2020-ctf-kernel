@@ -1,4 +1,4 @@
-# Kernel pwnable for r2con 2019 CTF 
+# Kernel pwnable for r2con 2020 CTF 
 
 This repository contains the challenge I contributed the r2con 2020 CTF. This 
 challenge is based on [last year's challenge](https://github.com/esanfelix/r2con2019-ctf-kernel) 
